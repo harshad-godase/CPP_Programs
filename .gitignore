@@ -1,0 +1,18 @@
+﻿# Ignore build outputs / binaries
+*.exe
+*.obj
+*.o
+*.out
+*.class
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore OS junk
+Thumbs.db
+.DS_Store
