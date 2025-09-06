@@ -9,7 +9,7 @@ class employee{
 };
 
 int main(){
-    employee emp;
+    employee emp; // Create an object
     emp.id=10;
     emp.name="Harshad";
     emp.sal=25000;
