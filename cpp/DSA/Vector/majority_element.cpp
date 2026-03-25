@@ -20,6 +20,7 @@ int majority(vector<int>& nums){
             freq=1;
             ans= nums[i];
         }
+        
         if(freq>n/2){
             return ans;
         }
